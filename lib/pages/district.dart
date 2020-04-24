@@ -102,7 +102,7 @@ class _DistDataState extends State<DistData> {
 
 
 
-                        Text("Disctrict",style: TextStyle(fontWeight: FontWeight.bold ,color: Colors.green)),
+                        Text("District",style: TextStyle(fontWeight: FontWeight.bold ,color: Colors.green)),
 
                       ],
                     ),
